@@ -3,6 +3,8 @@
 
 A dermoscopic skin cancer image classifier trained via transfer learning with MobileNet V1. This is for my BSc(Hons) Software Engineering dissertation titled “Creating A Multiclass Computer Aided Diagnosis System For Skin Cancer Using Deep Neural Networks”.
 
+Please click the link to view the PDF version of the presentation I gave at university associated with this project: [View PDF](https://drive.google.com/file/d/1AE6dsPPpl3rtQlxJi4pyxJmrnQcDRsww/view?usp=sharing)
+
 This repository contains a dermoscopic skin cancer image classifier - coded in Python and trained using Keras and the MobileNet V1 Convolutional Neural Network with the ImageNet dataset.
 
 Along with the notebook of the model, there is also exploratory data analysis on the HAM10000 (Human Against Machine with 10, 000 training images) dataset located at [this repository](https://github.com/hasib-a/ham10000_exploratory_data_analysis).
@@ -22,5 +24,3 @@ The able below is for reference on the code -> skin lesion name which are on the
 |Melanoma | 4 |
 |Melanocytic nevi | 5 |
 |Vascular lesion | 6 |
-
-Please click the link to view the PDF version of the presentation I gave at university associated with this project: [View PDF](https://drive.google.com/file/d/1AE6dsPPpl3rtQlxJi4pyxJmrnQcDRsww/view?usp=sharing)
