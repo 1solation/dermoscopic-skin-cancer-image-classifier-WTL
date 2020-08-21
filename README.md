@@ -22,3 +22,5 @@ The able below is for reference on the code -> skin lesion name which are on the
 |Melanoma | 4 |
 |Melanocytic nevi | 5 |
 |Vascular lesion | 6 |
+
+Please click the link to view the PDF version of the presentation I gave at university associated with this project: [View PDF](https://drive.google.com/file/d/1AE6dsPPpl3rtQlxJi4pyxJmrnQcDRsww/view?usp=sharing)
