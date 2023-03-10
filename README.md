@@ -1,7 +1,7 @@
 
 # A Dermoscopic Skin Cancer Image Classifier WTL (With Transfer Learning)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A dermoscopic skin cancer image classifier trained via transfer learning with MobileNet V1. This is for my BSc(Hons) Software Engineering dissertation titled “Creating A Multiclass Computer Aided Diagnosis System For Skin Cancer Using Deep Neural Networks”.
 
